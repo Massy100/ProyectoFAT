@@ -1,0 +1,14 @@
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\bin\Debug\net8.0\ProyectoFAT.exe
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\bin\Debug\net8.0\ProyectoFAT.deps.json
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\bin\Debug\net8.0\ProyectoFAT.runtimeconfig.json
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\bin\Debug\net8.0\ProyectoFAT.dll
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\bin\Debug\net8.0\ProyectoFAT.pdb
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ProyectoFAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ProyectoFAT.AssemblyInfoInputs.cache
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ProyectoFAT.AssemblyInfo.cs
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ProyectoFAT.csproj.CoreCompileInputs.cache
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ProyectoFAT.dll
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\refint\ProyectoFAT.dll
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ProyectoFAT.pdb
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ProyectoFAT.genruntimeconfig.cache
+C:\Users\Massielle\Documents\UNIVERSIDAD\Manejo Archivos\ProyectoFAT\proyectofat\obj\Debug\net8.0\ref\ProyectoFAT.dll
